@@ -2,7 +2,7 @@
 
 # TankPad
 
-TankPad implements gamepad support for tank simulator games such as Tank World or WOT. 
+TankPad implements gamepad support for tank simulator games such as Tank World(WoT).
 It supports the game keyboard/mouse keys automatically, and allows you to easily customize gamepad buttons.
 
 ### Features
