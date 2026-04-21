@@ -2,14 +2,13 @@
 
 # TankPad
 
-TankPad implements gamepad support for tank simulator games such as Tank World(WoT).
+**TankPad** implements gamepad support for tank simulator games such as Tank World(WoT).
 It supports the game keyboard/mouse keys automatically, and allows you to easily customize gamepad buttons.
 
 ### Features
 
-TankPad translates gamepad events to keyboard and mouse events the game supports. For example, left stick 
-movements are translated to WASD keys, right stick movements to gun/camera mouse movements, and so on. 
-It supports X-Box and DualShock compatible gamepads.
+TankPad translates gamepad events to keyboard and mouse events the game supports. For example, left stick movements are translated to WASD keys, right stick movements to gun/camera mouse movements, and so on. It supports X-Box and DualShock compatible gamepads.
+
 <img src="images/screenshot.png" width="800"/>
 
 ### How to Use
@@ -18,13 +17,13 @@ It supports X-Box and DualShock compatible gamepads.
 - Run the TankPad.exe file, run the game and you are ready to play!
 - Do not close TankPad while playing, otherwise gamepad support will be lost. 
 
-Additionally, you can reassign the gamepad buttons for different game actions:
+Additionally, you can reassign the gamepad buttons for different game actions:  
 
-Select a button from the list of gamepad buttons.
+Select a button from the list of gamepad buttons.  
 <img src="images/select_from_list.png" width="400"/>
 
-Or, click a button on the gamepad image.
+Or, click a button on the gamepad image.  
 <img src="images/select_from_image.png" width="400"/>
 
-Or, click 'Assign Button' and press a gamepad button.
+Or, click 'Assign Button' and press a gamepad button.  
 <img src="images/select_from_gamepad.png" width="400"/>
