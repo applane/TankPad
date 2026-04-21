@@ -10,7 +10,7 @@ It supports the game keyboard/mouse keys automatically, and allows you to easily
 TankPad translates gamepad events to keyboard and mouse events the game supports. For example, left stick 
 movements are translated to WASD keys, right stick movements to gun/camera mouse movements, and so on. 
 It supports X-Box and DualShock compatible gamepads.
-<img src="image/screenshot.png" width="800"/>
+<img src="images/screenshot.png" width="800"/>
 
 ### How to Use
 
@@ -21,10 +21,10 @@ It supports X-Box and DualShock compatible gamepads.
 Additionally, you can reassign the gamepad buttons for different game actions:
 
 Select a button from the list of gamepad buttons.
-<img src="image/select_from_list.png"/>
+<img src="images/select_from_list.png"/>
 
 Or, click a button on the gamepad image.
-<img src="image/select_from_image.png"/>
+<img src="images/select_from_image.png"/>
 
 Or, click 'Assign Button' and press a gamepad button.
-<img src="image/select_from_gamepad.png"/>
+<img src="images/select_from_gamepad.png"/>
