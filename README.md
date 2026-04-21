@@ -21,10 +21,10 @@ It supports X-Box and DualShock compatible gamepads.
 Additionally, you can reassign the gamepad buttons for different game actions:
 
 Select a button from the list of gamepad buttons.
-<img src="images/select_from_list.png"/>
+<img src="images/select_from_list.png" width="400"/>
 
 Or, click a button on the gamepad image.
-<img src="images/select_from_image.png"/>
+<img src="images/select_from_image.png" width="400"/>
 
 Or, click 'Assign Button' and press a gamepad button.
-<img src="images/select_from_gamepad.png"/>
+<img src="images/select_from_gamepad.png" width="400"/>
