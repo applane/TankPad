@@ -1,6 +1,6 @@
 <img src="images/icon.png" width="60"/>
 
-# TankPad (Windows/Visual Studio)
+# TankPad (Windows/VS/C++)
 
 **TankPad** implements gamepad support for tank simulator games such as Tank World(WoT).
 It supports the game keyboard/mouse keys automatically, and allows you to easily customize gamepad buttons.
